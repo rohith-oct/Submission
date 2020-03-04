@@ -1,6 +1,6 @@
 # Submission :: Here Developer Documentation Task
 
-## Requirements:
+### Requirements:
 
 1.Eclipse with Cucumber extension should be installed
 
@@ -8,7 +8,7 @@
 
 3.Chrome Browser v.80 should be installed
   
-## Steps to follow:
+### Steps to follow:
 1.Launch the provided github URL.
 
 2.Clone the repository to Eclipse using pom.xml file or download the Zip File and import the Maven Project into Eclipse
