@@ -55,7 +55,7 @@ public class LoginPage {
 		responsecode = httpconnection.getResponseCode();
 		
 		
-		if(responsecode>=400) {
+		if(responsecode!=200) {
 			System.out.println("the URL is "+url);
 			System.out.println("The Response Code is "+responsecode);
 		}
@@ -87,7 +87,7 @@ public class LoginPage {
 				httpconnection.setRequestMethod("HEAD");
 				httpconnection.connect();
 				responsecode = httpconnection.getResponseCode();
-				if(responsecode >=400) 
+				if(responsecode!=200) 
 				{
 					System.out.println("URL : "+url);
 					System.out.println("Response Code : "+responsecode);
