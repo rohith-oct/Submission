@@ -11,7 +11,7 @@
 ### Steps to follow:
 1.Launch the provided github URL.
 
-2.Clone the repository to Eclipse using pom.xml file or download the Zip File and import the Maven Project into Eclipse
+2.Clone the repository to Eclipse using pom.xml file or Download the Zip File and import the Maven Project(HereDocumentationPage) into Eclipse
 
 3.Navigate to (HereDocumentationPage\src\com\test\runner\TestRunner.java) and run the TestRunner.Java File
 
